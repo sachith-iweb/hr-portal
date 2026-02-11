@@ -268,6 +268,8 @@ border: 1px solid #808080;
                             </telerik:RadMenuItem>
                             <telerik:RadMenuItem runat="server" NavigateUrl="~/letter_request.aspx" Text="Letter Request" Value="E">
                             </telerik:RadMenuItem>
+                            <telerik:RadMenuItem runat="server" NavigateUrl="~/outstation_allowance.aspx" Text="Outstation Allowance" Value="E">
+                            </telerik:RadMenuItem>
                         </Items>
                     </telerik:RadMenuItem>
                     <telerik:RadMenuItem runat="server" Text="Notifications" NavigateUrl="~/notifications.aspx" Value="E">

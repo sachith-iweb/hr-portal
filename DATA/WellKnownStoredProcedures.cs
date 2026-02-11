@@ -819,6 +819,10 @@ namespace DATA
             public static string SelectAllLeaveRequest = "SelectAllLeaveRequest";
             public static string SelectThisLeaveRequest = "SelectThisLeaveRequest";
 
+            //Outstation Allowance
+            public static string SelectAllOutstationAllowance = "SelectAllOutstationAllowance";
+            public static string Select_OutstationAllowanceApprovalFlowStatus = "Select_OutstationAllowanceApprovalFlowStatus";
+
             public static string SelectAllUserWiseEmployees = "SelectAllUserWiseEmployees";
 
             // Organization Hierarchy
@@ -1511,6 +1515,9 @@ namespace DATA
             //Leave Request
             public static string InsertLeaveRequest = "InsertLeaveRequest";
 
+            //Outstation Allowance
+            public static string InsertOutstationAllowance = "InsertOutstationAllowance";
+
             //Work Flow
             public static string InsertWorkFlowDetails = "InsertWorkFlowDetails";
             
@@ -2039,6 +2046,9 @@ namespace DATA
 
             //Leave Request
             public static string DeleteLeaveRequest = "DeleteLeaveRequest";
+
+            //Outstation Allowance
+            public static string DeleteOutstationAllowance = "DeleteOutstationAllowance";
 
             //Work Flow
             public static string DeleteWorkFlow = "DeleteWorkFlow";

@@ -88,6 +88,7 @@
     <Compile Include="GrievanceInitiate.cs" />
     <Compile Include="HealthProfile.cs" />
     <Compile Include="LeaveRequest.cs" />
+    <Compile Include="OutstationAllowance.cs" />
     <Compile Include="ListOfAttributes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TalentCategoryDetails.cs" />

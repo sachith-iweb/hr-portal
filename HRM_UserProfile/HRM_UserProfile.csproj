@@ -161,6 +161,13 @@
     <Compile Include="leave_request.aspx.designer.cs">
       <DependentUpon>leave_request.aspx</DependentUpon>
     </Compile>
+    <Compile Include="outstation_allowance.aspx.cs">
+      <DependentUpon>outstation_allowance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="outstation_allowance.aspx.designer.cs">
+      <DependentUpon>outstation_allowance.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Helper\NotificationHelper.cs" />
     <Compile Include="notifications.aspx.cs">
       <DependentUpon>notifications.aspx</DependentUpon>
@@ -307,6 +314,7 @@
     <Content Include="js\RadWindowColose.js" />
     <Content Include="letter_request.aspx" />
     <Content Include="leave_request.aspx" />
+    <Content Include="outstation_allowance.aspx" />
     <Content Include="notifications.aspx" />
     <Content Include="leave_calander.aspx" />
     <Content Include="overview.aspx" />

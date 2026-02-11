@@ -90,6 +90,7 @@
     <Compile Include="GrievanceResolvingMethodsService.cs" />
     <Compile Include="HealthProfileService.cs" />
     <Compile Include="LeaveRequestService.cs" />
+    <Compile Include="OutstationAllowanceService.cs" />
     <Compile Include="ListOfAttributesDetailsService.cs" />
     <Compile Include="OverviewService.cs" />
     <Compile Include="ProfilrHeaderService.cs" />

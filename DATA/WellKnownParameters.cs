@@ -193,6 +193,24 @@ namespace DATA
             public const string designationID = "@designationID";
 
         }
+        internal static class OutstationAllowance
+        {
+            public static string outstationAllowanceId = "@outstationAllowanceId";
+            public static string requestDate = "@requestDate";
+            public static string employeeId = "@employeeId";
+            public static string customer = "@customer";
+            public static string reason = "@reason";
+            public static string fromDate = "@fromDate";
+            public static string toDate = "@toDate";
+            public static string overstayNights = "@overstayNights";
+            public static string holidayNights = "@holidayNights";
+            public static string other = "@other";
+            public static string status = "@status";
+            public static string isActive = "@isActive";
+            public static string createdUserId = "@createdUserId";
+            public static string modifiedUserId = "@modifiedUserId";
+            public static string operation = "@Operation";
+        }
         internal static class Userdetails
         {
             public const string Id = "@Id";

@@ -91,6 +91,7 @@
     <Compile Include="GrievanceResolvingMethodsEntry.cs" />
     <Compile Include="HealthProfileEntry.cs" />
     <Compile Include="LeaveRequestEntry.cs" />
+    <Compile Include="OutstationAllowanceEntry.cs" />
     <Compile Include="ListOfAttributeEntry.cs" />
     <Compile Include="OverviewEntry.cs" />
     <Compile Include="ProfileHeaderEntry.cs" />
