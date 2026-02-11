@@ -43,13 +43,12 @@ namespace DATA
             return DataBaseUtilities.DataBaseUtilities.Select("SelectCompanyLeaveCalander", spParameters);
         }
 
-        public DataTable SelectNoOfCompanyLeaveDatesInReqestedDateRange(DateTime fromDate, DateTime toDate, int companyId, int requestLeaveUnit)
+        public DataTable SelectNoOfCompanyLeaveDatesInReqestedDateRange(DateTime fromDate , DateTime toDate, int companyId)
         {
             Dictionary<string, object> spParameters = new Dictionary<string, Object>();
             spParameters.Add("@FromDate", fromDate);
             spParameters.Add("@ToDate", toDate);
             spParameters.Add("@CompanyId", companyId);
-            spParameters.Add("@MyLeaveUnit", requestLeaveUnit);
             return DataBaseUtilities.DataBaseUtilities.Select("SelectNoOfCompanyLeaveDatesInReqestedDateRange", spParameters);
         }
 

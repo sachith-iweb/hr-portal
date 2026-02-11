@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DBConnection-Web.config Connection String" description="DBConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=SACHITH-PC;Initial Catalog=DBHRM;Persist Security Info=True;User ID=sa; Password=tommya;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Projects\\HRM\\2016\ 02\ 24\\HRM_UserProfile\\HRM_UserProfile\\obj\\Release\\Package\\PackageTmp\\web\.config$" match="/configuration/connectionStrings/add[@name='DBConnection']/@connectionString" />
+  </parameter>
+</parameters>

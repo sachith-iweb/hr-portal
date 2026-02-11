@@ -1,0 +1,209 @@
+D:\PROJECTS\HRM\HRM 18. 02 .2014\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+D:\PROJECTS\HRM\HRM 18. 02 .2014\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+D:\PROJECTS\HRM\HRM 18. 02 .2014\HRM_UserProfile\SERVICE\bin\DATA.dll
+D:\PROJECTS\HRM\HRM 18. 02 .2014\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+D:\PROJECTS\HRM\HRM 18. 02 .2014\HRM_UserProfile\SERVICE\bin\DATA.pdb
+D:\PROJECTS\HRM\HRM 18. 02 .2014\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+D:\PROJECTS\HRM\HRM 18. 02 .2014\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+D:\PROJECTS\HRM\HRM 18. 02 .2014\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+D:\PROJECTS\HRM\HRM 18. 02 .2014\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+J:\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+J:\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+J:\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+J:\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+J:\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+J:\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\DATA.dll
+J:\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+J:\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\DATA.pdb
+J:\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\DATA.dll
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\DATA.pdb
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 23 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 26 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 26 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 26 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\DATA.dll
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 26 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 26 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\DATA.pdb
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 26 HRM EMP PRO\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 26 HRM EMP PRO\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 26 HRM EMP PRO\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+D:\PROJECTS\HRM\HRM 2015 02 24\2015 02 26 HRM EMP PRO\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+E:\Scienter Projects\HRM\HRM 2015 02 26\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+E:\Scienter Projects\HRM\HRM 2015 02 26\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+E:\Scienter Projects\HRM\HRM 2015 02 26\HRM_UserProfile\SERVICE\bin\DATA.dll
+E:\Scienter Projects\HRM\HRM 2015 02 26\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+E:\Scienter Projects\HRM\HRM 2015 02 26\HRM_UserProfile\SERVICE\bin\DATA.pdb
+E:\Scienter Projects\HRM\HRM 2015 02 26\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+E:\Scienter Projects\HRM\HRM 2015 02 26\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+E:\Scienter Projects\HRM\HRM 2015 02 26\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+E:\Scienter Projects\HRM\HRM 2015 02 26\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+D:\PROJECTS\HRM\HRM 2015 02 27\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+D:\PROJECTS\HRM\HRM 2015 02 27\HRM_UserProfile\SERVICE\bin\SERVICE.dll.config
+D:\PROJECTS\HRM\HRM 2015 02 27\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+D:\PROJECTS\HRM\HRM 2015 02 27\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+D:\PROJECTS\HRM\HRM 2015 02 27\HRM_UserProfile\SERVICE\bin\DATA.dll
+D:\PROJECTS\HRM\HRM 2015 02 27\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+D:\PROJECTS\HRM\HRM 2015 02 27\HRM_UserProfile\SERVICE\bin\DATA.pdb
+D:\PROJECTS\HRM\HRM 2015 02 27\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+D:\PROJECTS\HRM\HRM 2015 02 27\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+D:\PROJECTS\HRM\HRM 2015 02 27\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+D:\PROJECTS\HRM\HRM 2015 02 28\HRM_UserProfile\SERVICE\bin\SERVICE.dll.config
+D:\PROJECTS\HRM\HRM 2015 02 28\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+D:\PROJECTS\HRM\HRM 2015 02 28\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+D:\PROJECTS\HRM\HRM 2015 02 28\HRM_UserProfile\SERVICE\bin\DATA.dll
+D:\PROJECTS\HRM\HRM 2015 02 28\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+D:\PROJECTS\HRM\HRM 2015 02 28\HRM_UserProfile\SERVICE\bin\DATA.pdb
+D:\PROJECTS\HRM\HRM 2015 02 28\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+D:\PROJECTS\HRM\HRM 2015 02 28\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+D:\PROJECTS\HRM\HRM 2015 02 28\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+D:\PROJECTS\HRM\HRM 2015 02 28\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+D:\PROJECTS\HRM\HRM 2015 03 12\HRM_UserProfile\SERVICE\bin\SERVICE.dll.config
+D:\PROJECTS\HRM\HRM 2015 03 12\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+D:\PROJECTS\HRM\HRM 2015 03 12\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+D:\PROJECTS\HRM\HRM 2015 03 12\HRM_UserProfile\SERVICE\bin\DATA.dll
+D:\PROJECTS\HRM\HRM 2015 03 12\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+D:\PROJECTS\HRM\HRM 2015 03 12\HRM_UserProfile\SERVICE\bin\DATA.pdb
+D:\PROJECTS\HRM\HRM 2015 03 12\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+D:\PROJECTS\HRM\HRM 2015 03 12\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+D:\PROJECTS\HRM\HRM 2015 03 12\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+D:\PROJECTS\HRM\HRM 2015 03 12\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+D:\PROJECTS\HRM\02.04.2015\HRM_UserProfile\SERVICE\bin\SERVICE.dll.config
+D:\PROJECTS\HRM\02.04.2015\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+D:\PROJECTS\HRM\02.04.2015\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+D:\PROJECTS\HRM\02.04.2015\HRM_UserProfile\SERVICE\bin\DATA.dll
+D:\PROJECTS\HRM\02.04.2015\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+D:\PROJECTS\HRM\02.04.2015\HRM_UserProfile\SERVICE\bin\DATA.pdb
+D:\PROJECTS\HRM\02.04.2015\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+D:\PROJECTS\HRM\02.04.2015\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+D:\PROJECTS\HRM\02.04.2015\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+D:\PROJECTS\HRM\02.04.2015\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+D:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\bin\SERVICE.dll.config
+D:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+D:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+D:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\bin\DATA.dll
+D:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+D:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\bin\DATA.pdb
+D:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+D:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+D:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+D:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+E:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\bin\SERVICE.dll.config
+E:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+E:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+E:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\bin\DATA.dll
+E:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+E:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\bin\DATA.pdb
+E:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+E:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+E:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+E:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+E:\Office Works\HRM\2016 01 31\2016 01 30\2016 01 30\HRM_UserProfile\SERVICE\bin\SERVICE.dll.config
+E:\Office Works\HRM\2016 01 31\2016 01 30\2016 01 30\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+E:\Office Works\HRM\2016 01 31\2016 01 30\2016 01 30\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+E:\Office Works\HRM\2016 01 31\2016 01 30\2016 01 30\HRM_UserProfile\SERVICE\bin\DATA.dll
+E:\Office Works\HRM\2016 01 31\2016 01 30\2016 01 30\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+E:\Office Works\HRM\2016 01 31\2016 01 30\2016 01 30\HRM_UserProfile\SERVICE\bin\DATA.pdb
+E:\Office Works\HRM\2016 01 31\2016 01 30\2016 01 30\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+E:\Office Works\HRM\2016 01 31\2016 01 30\2016 01 30\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+E:\Office Works\HRM\2016 01 31\2016 01 30\2016 01 30\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+E:\Office Works\HRM\2016 01 31\2016 01 30\2016 01 30\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+D:\Projects\HRM\2016 02 09\HRM_UserProfile\SERVICE\bin\SERVICE.dll.config
+D:\Projects\HRM\2016 02 09\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+D:\Projects\HRM\2016 02 09\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+D:\Projects\HRM\2016 02 09\HRM_UserProfile\SERVICE\bin\DATA.dll
+D:\Projects\HRM\2016 02 09\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+D:\Projects\HRM\2016 02 09\HRM_UserProfile\SERVICE\bin\DATA.pdb
+D:\Projects\HRM\2016 02 09\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+D:\Projects\HRM\2016 02 09\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+D:\Projects\HRM\2016 02 09\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+D:\Projects\HRM\2016 02 09\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+E:\Office Works\HRM\2016 02 10\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+E:\Office Works\HRM\2016 02 10\HRM_UserProfile\SERVICE\bin\SERVICE.dll.config
+E:\Office Works\HRM\2016 02 10\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+E:\Office Works\HRM\2016 02 10\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+E:\Office Works\HRM\2016 02 10\HRM_UserProfile\SERVICE\bin\DATA.dll
+E:\Office Works\HRM\2016 02 10\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+E:\Office Works\HRM\2016 02 10\HRM_UserProfile\SERVICE\bin\DATA.pdb
+E:\Office Works\HRM\2016 02 10\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+E:\Office Works\HRM\2016 02 10\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+E:\Office Works\HRM\2016 02 10\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+D:\Projects\HRM\2016 02 10\2016 02 10\HRM_UserProfile\SERVICE\bin\SERVICE.dll.config
+D:\Projects\HRM\2016 02 10\2016 02 10\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+D:\Projects\HRM\2016 02 10\2016 02 10\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+D:\Projects\HRM\2016 02 10\2016 02 10\HRM_UserProfile\SERVICE\bin\DATA.dll
+D:\Projects\HRM\2016 02 10\2016 02 10\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+D:\Projects\HRM\2016 02 10\2016 02 10\HRM_UserProfile\SERVICE\bin\DATA.pdb
+D:\Projects\HRM\2016 02 10\2016 02 10\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+D:\Projects\HRM\2016 02 10\2016 02 10\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+D:\Projects\HRM\2016 02 10\2016 02 10\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+D:\Projects\HRM\2016 02 10\2016 02 10\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+D:\Projects\HRM\2016 02 15\HRM_UserProfile\SERVICE\bin\SERVICE.dll.config
+D:\Projects\HRM\2016 02 15\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+D:\Projects\HRM\2016 02 15\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+D:\Projects\HRM\2016 02 15\HRM_UserProfile\SERVICE\bin\DATA.dll
+D:\Projects\HRM\2016 02 15\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+D:\Projects\HRM\2016 02 15\HRM_UserProfile\SERVICE\bin\DATA.pdb
+D:\Projects\HRM\2016 02 15\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+D:\Projects\HRM\2016 02 15\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+D:\Projects\HRM\2016 02 15\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+D:\Projects\HRM\2016 02 15\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+D:\Projects\HRM\2016 02 16\HRM_UserProfile\SERVICE\bin\SERVICE.dll.config
+D:\Projects\HRM\2016 02 16\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+D:\Projects\HRM\2016 02 16\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+D:\Projects\HRM\2016 02 16\HRM_UserProfile\SERVICE\bin\DATA.dll
+D:\Projects\HRM\2016 02 16\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+D:\Projects\HRM\2016 02 16\HRM_UserProfile\SERVICE\bin\DATA.pdb
+D:\Projects\HRM\2016 02 16\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+D:\Projects\HRM\2016 02 16\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+D:\Projects\HRM\2016 02 16\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+D:\Projects\HRM\2016 02 16\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+D:\Projects\HRM\2016 02 17\HRM_UserProfile\SERVICE\bin\SERVICE.dll.config
+D:\Projects\HRM\2016 02 17\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+D:\Projects\HRM\2016 02 17\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+D:\Projects\HRM\2016 02 17\HRM_UserProfile\SERVICE\bin\DATA.dll
+D:\Projects\HRM\2016 02 17\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+D:\Projects\HRM\2016 02 17\HRM_UserProfile\SERVICE\bin\DATA.pdb
+D:\Projects\HRM\2016 02 17\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+D:\Projects\HRM\2016 02 17\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+D:\Projects\HRM\2016 02 17\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+D:\Projects\HRM\2016 02 17\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+D:\Projects\HRM\2016 02 18\HRM_UserProfile\SERVICE\bin\SERVICE.dll.config
+D:\Projects\HRM\2016 02 18\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+D:\Projects\HRM\2016 02 18\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+D:\Projects\HRM\2016 02 18\HRM_UserProfile\SERVICE\bin\DATA.dll
+D:\Projects\HRM\2016 02 18\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+D:\Projects\HRM\2016 02 18\HRM_UserProfile\SERVICE\bin\DATA.pdb
+D:\Projects\HRM\2016 02 18\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+D:\Projects\HRM\2016 02 18\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+D:\Projects\HRM\2016 02 18\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+D:\Projects\HRM\2016 02 18\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+D:\Projects\HRM\2016 02 24\HRM_UserProfile\SERVICE\bin\SERVICE.dll.config
+D:\Projects\HRM\2016 02 24\HRM_UserProfile\SERVICE\bin\SERVICE.dll
+D:\Projects\HRM\2016 02 24\HRM_UserProfile\SERVICE\bin\SERVICE.pdb
+D:\Projects\HRM\2016 02 24\HRM_UserProfile\SERVICE\bin\DATA.dll
+D:\Projects\HRM\2016 02 24\HRM_UserProfile\SERVICE\bin\DOMAIN.dll
+D:\Projects\HRM\2016 02 24\HRM_UserProfile\SERVICE\bin\DATA.pdb
+D:\Projects\HRM\2016 02 24\HRM_UserProfile\SERVICE\bin\DOMAIN.pdb
+D:\Projects\HRM\2016 02 24\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+D:\Projects\HRM\2016 02 24\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.dll
+D:\Projects\HRM\2016 02 24\HRM_UserProfile\SERVICE\obj\Debug\SERVICE.pdb
+D:\MY\IWEB_GIT\hr-portal\SERVICE\bin\SERVICE.dll.config
+D:\MY\IWEB_GIT\hr-portal\SERVICE\bin\SERVICE.dll
+D:\MY\IWEB_GIT\hr-portal\SERVICE\bin\SERVICE.pdb
+D:\MY\IWEB_GIT\hr-portal\SERVICE\bin\DATA.dll
+D:\MY\IWEB_GIT\hr-portal\SERVICE\bin\DOMAIN.dll
+D:\MY\IWEB_GIT\hr-portal\SERVICE\bin\DATA.pdb
+D:\MY\IWEB_GIT\hr-portal\SERVICE\bin\DATA.dll.config
+D:\MY\IWEB_GIT\hr-portal\SERVICE\bin\DOMAIN.pdb
+D:\MY\IWEB_GIT\hr-portal\SERVICE\bin\DOMAIN.dll.config
+D:\MY\IWEB_GIT\hr-portal\SERVICE\obj\Debug\SERVICE.csproj.AssemblyReference.cache
+D:\MY\IWEB_GIT\hr-portal\SERVICE\obj\Debug\SERVICE.csproj.CoreCompileInputs.cache
+D:\MY\IWEB_GIT\hr-portal\SERVICE\obj\Debug\SERVICE.csproj.Up2Date
+D:\MY\IWEB_GIT\hr-portal\SERVICE\obj\Debug\SERVICE.dll
+D:\MY\IWEB_GIT\hr-portal\SERVICE\obj\Debug\SERVICE.pdb

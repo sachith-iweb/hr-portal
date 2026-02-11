@@ -35,16 +35,6 @@ namespace DATA
             return DataBaseUtilities.DataBaseUtilities.Select("SelectAllCompanyWiseLeaveUnits", spParameter);
         }
 
-        public DataTable SelectIsActive(CompanyWiseLeaveUnitsDetails companyWiseLeaveUnitsDetails)
-        {
-            Dictionary<string, object> spParameter = new Dictionary<string, object>();
-            spParameter.Add(WellKnownParameters.CompanyWiseLeaveUnits.CompanyId, companyWiseLeaveUnitsDetails.CompanyId);
-            spParameter.Add("@IsActive", companyWiseLeaveUnitsDetails.IsActive);
-
-
-            return DataBaseUtilities.DataBaseUtilities.Select(WellKnownStoredProcedures.SelectSPs.SelectAllCompanyWiseLeaveUnits, spParameter);
-        }
-
         public DataTable SelectThisCompanyWiseLeaveUnitsByLeaveUnit(CompanyWiseLeaveUnitsDetails companyWiseLeaveUnitsDetails)
         {
             Dictionary<string, object> spParameter = new Dictionary<string, object>();

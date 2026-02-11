@@ -1,0 +1,175 @@
+﻿
+
+.alert {
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 3px !important;
+
+
+}
+
+.msgHeader
+{
+    text-transform:uppercase !important;
+    font-size:18px !important;
+}
+
+.alert h4 {
+  margin-top: 0;
+  color: inherit;
+  display:block !important;
+  font-size:16px !important;
+}
+.alert .alert-link {
+  font-weight: bold;
+}
+.alert > p,
+.alert > ul {
+  margin-bottom: 0;
+}
+.alert > p + p {
+  margin-top: 5px;
+}
+.alert-dismissable,
+.alert-dismissible {
+  padding-right: 35px;
+}
+.alert-dismissable .close,
+.alert-dismissible .close {
+  position: relative;
+  top: -2px;
+  right: -21px;
+  color: inherit;
+}
+.alert-success {
+  color: #3c763d;
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+
+
+background: #b6e026; /* Old browsers */
+background: -moz-linear-gradient(top,  #b6e026 0%, #abdc28 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #b6e026 0%,#abdc28 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #b6e026 0%,#abdc28 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b6e026', endColorstr='#abdc28',GradientType=0 ); /* IE6-9 */
+color:#000 !important;
+font-size:16px !important;
+
+}
+.alert-success hr {
+  border-top-color: #c9e2b3;
+}
+.alert-success .alert-link {
+  color: #2b542c;
+}
+.alert-info {
+  color: #31708f;
+  background-color: #d9edf7;
+  border-color: #bce8f1;
+
+background: #b0d4e3; /* Old browsers */
+background: -moz-linear-gradient(top,  #b0d4e3 0%, #88bacf 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #b0d4e3 0%,#88bacf 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #b0d4e3 0%,#88bacf 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b0d4e3', endColorstr='#88bacf',GradientType=0 ); /* IE6-9 */
+color:#000 !important;
+font-size:16px !important;
+
+}
+.alert-info hr {
+  border-top-color: #a6e1ec;
+  border-top-width:2px;
+}
+.alert-info .alert-link {
+  color: #245269;
+}
+.alert-warning {
+  color: #8a6d3b;
+  background-color: #fcf8e3;
+  border-color: #faebcc;
+
+
+background: #febf01; /* Old browsers */
+background: -moz-linear-gradient(top,  #febf01 0%, #febf01 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #febf01 0%,#febf01 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #febf01 0%,#febf01 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#febf01', endColorstr='#febf01',GradientType=0 ); /* IE6-9 */
+color:#000 !important;
+font-size:16px !important;
+
+}
+.alert-warning hr {
+  border-top-color: #f7e1b5;
+}
+.alert-warning .alert-link {  color: #66512c;
+
+
+}
+.alert-danger {
+  color: #a94442;
+  background-color: #f2dede;
+  border-color: #ebccd1;
+
+
+background: #cc0000; /* Old browsers */
+background: -moz-linear-gradient(top,  #cc0000 0%, #cc0000 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #cc0000 0%,#cc0000 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #cc0000 0%,#cc0000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0000', endColorstr='#cc0000',GradientType=0 ); /* IE6-9 */
+color:#ffffff !important;
+font-size:16px !important;
+
+
+}
+.alert-danger hr {
+  border-top-color: #e4b9c0;
+}
+.alert-danger .alert-link {
+  color: #843534;
+}
+
+
+
+
+.fade {
+  opacity: 0;
+  -webkit-transition: opacity .15s linear;
+       -o-transition: opacity .15s linear;
+          transition: opacity .15s linear;
+}
+.fade.in {
+  opacity: 1;
+}
+
+
+
+
+.close {
+  float: right;
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1;
+  color: #000;
+  text-shadow: 0 1px 0 #fff;
+  filter: alpha(opacity=20);
+  opacity: .2;
+}
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+  filter: alpha(opacity=50);
+  opacity: .5;
+}
+  
+
+.msgHrStyle
+{    
+    border: 0 !important;
+    height: 1px !important;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+   
+}
+  

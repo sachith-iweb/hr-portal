@@ -27,11 +27,6 @@ namespace SERVICE
             return companyWiseLeaveUnitsEntry.Select(companyWiseLeaveUnitsDetails);
         }
 
-        public DataTable SelectIsActive(CompanyWiseLeaveUnitsDetails companyWiseLeaveUnitsDetails)
-        {
-            return companyWiseLeaveUnitsEntry.SelectIsActive(companyWiseLeaveUnitsDetails);
-        }
-
         public DataTable SelectThis(CompanyWiseLeaveUnitsDetails companyWiseLeaveUnitsDetails)
         {
             return companyWiseLeaveUnitsEntry.SelectThis(companyWiseLeaveUnitsDetails);

@@ -1,0 +1,308 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="userprofile.master.cs" Inherits="HRM_UserProfile.userprofile" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Employee Profile - Human Resource Management System (Scienter Technologies)</title>
+     <link rel="icon" 
+      type="image/png" 
+      href="images/favicon.png">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <link href="css/common.css" rel="stylesheet" />
+ 
+
+
+    <style type="text/css">
+        .welcomeMsg
+        {
+            font-size: 13px;
+            font-weight: bold;
+            text-align: center;
+            cursor: pointer;
+            color: #444;
+            text-decoration: none;
+            
+            bottom: 00px;
+            right:85px;                        
+
+            position: fixed;
+            display: none;           
+            background-repeat: no-repeat;
+            z-index:3000;
+
+ background: #eeeeee; /* Old browsers */
+background: -moz-linear-gradient(top,  #eeeeee 0%, #cccccc 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#cccccc)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #eeeeee 0%,#cccccc 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */
+
+padding:25px;
+
+border-radius: 10px 10px 0px 0px;
+-moz-border-radius: 10px 10px 0px 0px;
+-webkit-border-radius: 10px 10px 0px 0px;
+border: 1px solid #808080;
+
+        }
+        .scrollToTop:hover
+        {
+            text-decoration: none;
+        }
+    </style>
+
+    <style type="text/css">
+        .auto-style3 {
+            width: 21px;
+        }
+    </style>
+
+            <link href="css/alert.css" rel="stylesheet" />
+
+</head>
+<body>   
+
+     
+
+    <form id="form1" runat="server">
+         
+
+           
+
+
+     <telerik:RadScriptManager ID="RadScriptManager1" runat="server">
+        <Scripts>
+          <%--  <asp:ScriptReference Assembly="Telerik.Web.UI" Name="Telerik.Web.UI.Common.Core.js" />
+            <asp:ScriptReference Assembly="Telerik.Web.UI" Name="Telerik.Web.UI.Common.jQuery.js" />
+            <asp:ScriptReference Assembly="Telerik.Web.UI" Name="Telerik.Web.UI.Common.jQueryInclude.js" />--%>
+
+             
+        </Scripts>
+    </telerik:RadScriptManager>
+
+    <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
+           <script>
+
+               $(document).ready(function () {
+
+                   //Check to see if the window is top if not then display button
+                   $(window).load(function () {                       
+                       $('.welcomeMsg').delay(3000).fadeIn();
+                       });
+
+                   //Click  to close
+                   $('.welcomeMsg').click(function () {
+                       $('.welcomeMsg').hide("slow");
+                       return false;
+                   });
+
+                   //Click event to scroll to top
+
+                /*   $('.scrollToTop').click(function () {
+                       $('html, body').animate({ scrollTop: 0 }, 800);
+                       return false;
+                   });*/
+
+               });
+
+    </script>       
+         
+       <!-- alert scripts ----------------- -->
+       <script type="text/javascript" src="/ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+       <style>
+
+    
+
+        input[type=submit]:disabled {
+            opacity: 0.5 !important;         
+        }
+
+        .messagealert {
+            width: 980px !important;
+            position: fixed;          
+            z-index: 100000;
+            padding: 0;
+            font-size: 15px !important;  
+            margin-right:20px !important; 
+            bottom:10px;
+          
+                   
+        }
+    </style>
+        <script type="text/javascript">
+            function ShowMessage(message, messagetype) {
+                var cssclass;
+                switch (messagetype) {
+                    case 'Success':
+                        cssclass = 'alert-success'
+                        break;
+                    case 'Error':
+                        cssclass = 'alert-danger'
+                        break;
+                    case 'Warning':
+                        cssclass = 'alert-warning'
+                        break;
+                    default:
+                        cssclass = 'alert-info'
+                }
+
+                $('#alert_container').append('<div id="alert_div" style="margin: 0 0.5%; -webkit-box-shadow: 3px 4px 6px #999;" class="alert fade in ' + cssclass + '"><span  class="close" data-dismiss="alert" aria-label="close" onclick="return alertHide();">&times;</span><strong class="msgHeader">' + messagetype + '!</strong><hr class="msgHrStyle"/><span style="font-size:16px !important;">' + message + '</span></div>');
+                window.setTimeout(function () {
+                    $("." + cssclass).fadeTo(1000, 0).slideUp(1000, function () {
+                        $(this).remove();
+                    });
+                }, 5000);
+            }
+
+            function alertHide() {
+                //$('#alert_container').fadeOut();
+                return false;
+            }
+
+    </script> 
+         <!-- end of alert scripts ----------------- -->    
+    <div>
+        
+        <div >
+            <img src="images/u_bg.jpg" width="100%" style="position:fixed; top: -100px; left: -1px; z-index:-1000" />
+        </div>
+                
+        <div class="content">
+              <div class="messagealert" id="alert_container"></div>  
+          
+          <div class="divGroupBlockBody" style="background-image:url('images/profile_bg.png');">
+
+                     <table cellpadding"0" cellspacing="0" width="100%">
+                <tr>
+                    <td >
+                        <center>
+                      <div class="profileImageContainer"> 
+                      
+                          <img class="profileImage" runat="server" alt="" src="~/images/no_image.jpg" id="profileImage" style="max-width:120px; max-height:120px; min-height:120px; min-width:120px; height: 16px; width: 16px;"  /> 
+                      </center>
+                           </div>
+                      </td>
+                    <td class="auto-style3"></td>
+                    <td style="vertical-align:middle;">
+
+                        <table cellpadding="0" cellspacing="0" width="100%">
+                            <td><span class="companyName"><asp:Label ID="lblCompanies" runat="server" Text=""/></asp:Label> </span></td>
+
+                            <td style="color:#ff0000; text-align:right !important;"><span class="companyName">
+                                    <asp:ImageButton ID="btnLogout" runat="server" ImageUrl="~/images/btn_logout.png"  Width="25px" Height="25px" ToolTip="Logout" OnClick="btnLogout_Click" OnClientClick="return confirm('Do you wish to logout?');"/>
+                                &nbsp;</span></td>
+
+                            <tr>
+                                <td>Branch : <asp:Label ID="lblBranch" runat="server" Text=""/> | Department : <asp:Label ID="lblDepartment" runat="server" Text=""/> </td>
+                                <td style="color:#ff0000; text-align:right !important;">
+                                    &nbsp;</td>
+                            </tr>                            
+                            
+                            <tr>
+                                <td colspan="2"><asp:Label ID="lblCompanyEmail" runat="server" Text=""/></td>
+                            </tr>
+
+                            <tr>
+                                <td colspan="2"><span class="employeeNumber"> <asp:Label ID="lblEmployeCode" runat="server" Text=""/></span></td>
+                            </tr>
+
+                            <tr>
+                                <td colspan="2">
+
+                                    <span class="employeeName"> <asp:Label ID="lblEmployeeName" runat="server" Text=""/> </span> <span class="employeeDesignation"> ( <asp:Label ID="lblDesignation" runat="server" Text=""/> )</span>&nbsp;&nbsp;  <span class="employeeStatus"> <asp:Label ID="lblStatus" runat="server" Text=""/></span> </td>
+
+
+                                </td>
+                            </tr>
+
+                            </table>
+
+                    </td>
+                </tr>
+            </table>
+         </div>
+
+            <div class="divGroupBlockHeader" style="font-size:16px;">
+            
+              HUMAN RESOURCE MANAGEMENT (EMPLOYEE PORTAL)
+                        
+          </div>
+
+            <div style="margin-top:5px;"">
+            <telerik:RadMenu ID="RadMenu1" runat="server" Skin="Silk" Width="100%" style="top: 0px; left: 0px">
+                <Items>
+                    <telerik:RadMenuItem runat="server" Text="Overview" NavigateUrl="~/overview.aspx" Value="E">
+                    </telerik:RadMenuItem>
+<telerik:RadMenuItem runat="server" Text="Basic / Personal Info"  Value="E">
+    <Items>
+        <telerik:RadMenuItem runat="server" NavigateUrl="~/basic_info.aspx" Text="Basic Information" Value="E">
+        </telerik:RadMenuItem>
+        <telerik:RadMenuItem runat="server" NavigateUrl="~/relationship.aspx" Text="Relationship " Value="E">
+        </telerik:RadMenuItem>
+        <telerik:RadMenuItem runat="server" NavigateUrl="~/health_profile.aspx" Text="Health Profile" Value="E">
+        </telerik:RadMenuItem>
+        <telerik:RadMenuItem runat="server" NavigateUrl="~/interests.aspx" Text="Interests" Value="E">
+        </telerik:RadMenuItem>
+        <telerik:RadMenuItem runat="server" NavigateUrl="~/qualifications.aspx" Text="Qualifications" Value="E">
+        </telerik:RadMenuItem>
+        <telerik:RadMenuItem runat="server" NavigateUrl="~/achivements.aspx" Text="Achivements" Value="E">
+        </telerik:RadMenuItem>
+        <telerik:RadMenuItem runat="server" NavigateUrl="~/talents.aspx" Text="Talents" Value="E">
+        </telerik:RadMenuItem>
+    </Items>
+                    </telerik:RadMenuItem>
+                    <telerik:RadMenuItem runat="server" Text="Company Related"  Value="E">
+                        <Items>
+                            <telerik:RadMenuItem runat="server" NavigateUrl="~/leave_request.aspx" Text="Leave Request" Value="E">
+                            </telerik:RadMenuItem>
+                            <telerik:RadMenuItem runat="server" NavigateUrl="~/leave_calander.aspx" Text="Company Leave Descriptions" Value="E">
+                            </telerik:RadMenuItem>
+                            <telerik:RadMenuItem runat="server" NavigateUrl="~/grievance.aspx" Text="Grievance" Value="E">
+                            </telerik:RadMenuItem>
+                            <telerik:RadMenuItem runat="server" NavigateUrl="~/benifits-and-assests.aspx" Text="Benifits &amp; Assests" Value="E">
+                            </telerik:RadMenuItem>
+                            <telerik:RadMenuItem runat="server" NavigateUrl="~/letter_request.aspx" Text="Letter Request" Value="E">
+                            </telerik:RadMenuItem>
+                        </Items>
+                    </telerik:RadMenuItem>
+                    <telerik:RadMenuItem runat="server" Text="Notifications" NavigateUrl="~/notifications.aspx" Value="E">
+                    </telerik:RadMenuItem>
+                    <telerik:RadMenuItem runat="server" NavigateUrl="~/password-reset.aspx" Text="Password Reset" Value="E">
+                    </telerik:RadMenuItem>
+                    <telerik:RadMenuItem runat="server" NavigateUrl="~/frm_TerminationQuestionnaire.aspx" Text="Termination Feedback" Value="T">
+                    </telerik:RadMenuItem>
+                </Items>
+            </telerik:RadMenu>
+            </div>
+
+   
+            
+          <div style="margin-top:55px;">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">       
+          
+            </asp:ContentPlaceHolder>
+           </div>
+            
+            <br />
+           
+            
+            <center >
+              <hr class="shadow" />  
+             <span style="color:#808080"> - Online Human Resource Management Solution By  Scienter Technologies - </span> 
+              <hr  class="line"/>
+            </center>
+            
+        </div>
+
+    </div>
+
+        <script type="text/javascript" src="/ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+    </form>
+</body>
+</html>

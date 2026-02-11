@@ -28,9 +28,9 @@ namespace SERVICE
             return companyWiseLeaveCalanderEntry.Select(companyWiseLeaveCalander);
         }
 
-        public DataTable SelectNoOfCompanyLeaveDatesInReqestedDateRange(DateTime fromDate, DateTime toDate, int companyId, int requestLeaveUnit)
+        public DataTable SelectNoOfCompanyLeaveDatesInReqestedDateRange(DateTime fromDate, DateTime toDate, int companyId)
         {
-            return companyWiseLeaveCalanderEntry.SelectNoOfCompanyLeaveDatesInReqestedDateRange(fromDate, toDate, companyId, requestLeaveUnit);
+            return companyWiseLeaveCalanderEntry.SelectNoOfCompanyLeaveDatesInReqestedDateRange(fromDate, toDate,companyId);
         }
 
         public void Delete(CompanyWiseLeaveCalander companyWiseLeaveCalander)

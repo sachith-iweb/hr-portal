@@ -1,0 +1,48 @@
+D:\PROJECTS\HRM\HRM 2015 02 27\HRM_UserProfile\DOMAIN\bin\DOMAIN.dll
+D:\PROJECTS\HRM\HRM 2015 02 27\HRM_UserProfile\DOMAIN\bin\DOMAIN.pdb
+D:\PROJECTS\HRM\HRM 2015 02 27\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.csprojResolveAssemblyReference.cache
+D:\PROJECTS\HRM\HRM 2015 02 27\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.dll
+D:\PROJECTS\HRM\HRM 2015 02 27\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.pdb
+D:\PROJECTS\HRM\HRM 2015 02 27\HRM_UserProfile\DOMAIN\bin\DOMAIN.dll.config
+D:\PROJECTS\HRM\HRM 2015 03 12\HRM_UserProfile\DOMAIN\bin\DOMAIN.dll.config
+D:\PROJECTS\HRM\HRM 2015 03 12\HRM_UserProfile\DOMAIN\bin\DOMAIN.dll
+D:\PROJECTS\HRM\HRM 2015 03 12\HRM_UserProfile\DOMAIN\bin\DOMAIN.pdb
+D:\PROJECTS\HRM\HRM 2015 03 12\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.csprojResolveAssemblyReference.cache
+D:\PROJECTS\HRM\HRM 2015 03 12\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.dll
+D:\PROJECTS\HRM\HRM 2015 03 12\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.pdb
+D:\PROJECTS\HRM\02.04.2015\HRM_UserProfile\DOMAIN\bin\DOMAIN.dll.config
+D:\PROJECTS\HRM\02.04.2015\HRM_UserProfile\DOMAIN\bin\DOMAIN.dll
+D:\PROJECTS\HRM\02.04.2015\HRM_UserProfile\DOMAIN\bin\DOMAIN.pdb
+D:\PROJECTS\HRM\02.04.2015\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.csprojResolveAssemblyReference.cache
+D:\PROJECTS\HRM\02.04.2015\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.dll
+D:\PROJECTS\HRM\02.04.2015\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.pdb
+D:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\DOMAIN\bin\DOMAIN.dll.config
+D:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\DOMAIN\bin\DOMAIN.dll
+D:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\DOMAIN\bin\DOMAIN.pdb
+D:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.csprojResolveAssemblyReference.cache
+D:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.dll
+D:\PROJECTS\HRM\07.07.2015\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.pdb
+E:\Projects\HRM 2015 09 10\07.07.2015\HRM_UserProfile\DOMAIN\bin\DOMAIN.dll.config
+E:\Projects\HRM 2015 09 10\07.07.2015\HRM_UserProfile\DOMAIN\bin\DOMAIN.dll
+E:\Projects\HRM 2015 09 10\07.07.2015\HRM_UserProfile\DOMAIN\bin\DOMAIN.pdb
+E:\Projects\HRM 2015 09 10\07.07.2015\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.csprojResolveAssemblyReference.cache
+E:\Projects\HRM 2015 09 10\07.07.2015\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.dll
+E:\Projects\HRM 2015 09 10\07.07.2015\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.pdb
+D:\Projects\HRM\2016 01 31\2016 01 30\2016 01 30\HRM_UserProfile\DOMAIN\bin\DOMAIN.dll.config
+D:\Projects\HRM\2016 01 31\2016 01 30\2016 01 30\HRM_UserProfile\DOMAIN\bin\DOMAIN.dll
+D:\Projects\HRM\2016 01 31\2016 01 30\2016 01 30\HRM_UserProfile\DOMAIN\bin\DOMAIN.pdb
+D:\Projects\HRM\2016 01 31\2016 01 30\2016 01 30\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.csprojResolveAssemblyReference.cache
+D:\Projects\HRM\2016 01 31\2016 01 30\2016 01 30\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.dll
+D:\Projects\HRM\2016 01 31\2016 01 30\2016 01 30\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.pdb
+E:\Office Works\HRM\2016 02 10\HRM_UserProfile\DOMAIN\bin\DOMAIN.dll.config
+E:\Office Works\HRM\2016 02 10\HRM_UserProfile\DOMAIN\bin\DOMAIN.dll
+E:\Office Works\HRM\2016 02 10\HRM_UserProfile\DOMAIN\bin\DOMAIN.pdb
+E:\Office Works\HRM\2016 02 10\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.csprojResolveAssemblyReference.cache
+E:\Office Works\HRM\2016 02 10\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.dll
+E:\Office Works\HRM\2016 02 10\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.pdb
+D:\Projects\HRM\2016 02 17\HRM_UserProfile\DOMAIN\bin\DOMAIN.dll.config
+D:\Projects\HRM\2016 02 17\HRM_UserProfile\DOMAIN\bin\DOMAIN.dll
+D:\Projects\HRM\2016 02 17\HRM_UserProfile\DOMAIN\bin\DOMAIN.pdb
+D:\Projects\HRM\2016 02 17\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.csprojResolveAssemblyReference.cache
+D:\Projects\HRM\2016 02 17\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.dll
+D:\Projects\HRM\2016 02 17\HRM_UserProfile\DOMAIN\obj\Release\DOMAIN.pdb
