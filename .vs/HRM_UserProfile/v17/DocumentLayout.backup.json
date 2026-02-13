@@ -3,11 +3,39 @@
   "WorkspaceRootPath": "D:\\MY\\IWEB_GIT\\hr-portal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD6FC2F0-A1F9-416B-A7E8-BA9A8BA935BD}|HRM_UserProfile\\HRM_UserProfile.csproj|d:\\my\\iweb_git\\hr-portal\\hrm_userprofile\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{FD6FC2F0-A1F9-416B-A7E8-BA9A8BA935BD}|HRM_UserProfile\\HRM_UserProfile.csproj|d:\\my\\iweb_git\\hr-portal\\hrm_userprofile\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6FC2F0-A1F9-416B-A7E8-BA9A8BA935BD}|HRM_UserProfile\\HRM_UserProfile.csproj|solutionrelative:hrm_userprofile\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B051D6A-B958-4200-A3BA-22E9F4D64378}|DATA\\DATA.csproj|D:\\MY\\IWEB_GIT\\hr-portal\\data\\companydetailsentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B051D6A-B958-4200-A3BA-22E9F4D64378}|DATA\\DATA.csproj|solutionrelative:data\\companydetailsentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B051D6A-B958-4200-A3BA-22E9F4D64378}|DATA\\DATA.csproj|D:\\MY\\IWEB_GIT\\hr-portal\\data\\outstationallowanceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B051D6A-B958-4200-A3BA-22E9F4D64378}|DATA\\DATA.csproj|solutionrelative:data\\outstationallowanceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6FC2F0-A1F9-416B-A7E8-BA9A8BA935BD}|HRM_UserProfile\\HRM_UserProfile.csproj|D:\\MY\\IWEB_GIT\\hr-portal\\hrm_userprofile\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{FD6FC2F0-A1F9-416B-A7E8-BA9A8BA935BD}|HRM_UserProfile\\HRM_UserProfile.csproj|solutionrelative:hrm_userprofile\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B051D6A-B958-4200-A3BA-22E9F4D64378}|DATA\\DATA.csproj|d:\\my\\iweb_git\\hr-portal\\data\\leaverequestentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD6FC2F0-A1F9-416B-A7E8-BA9A8BA935BD}|HRM_UserProfile\\HRM_UserProfile.csproj|D:\\MY\\IWEB_GIT\\hr-portal\\hrm_userprofile\\outstation_allowance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6FC2F0-A1F9-416B-A7E8-BA9A8BA935BD}|HRM_UserProfile\\HRM_UserProfile.csproj|solutionrelative:hrm_userprofile\\outstation_allowance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6FC2F0-A1F9-416B-A7E8-BA9A8BA935BD}|HRM_UserProfile\\HRM_UserProfile.csproj|D:\\MY\\IWEB_GIT\\hr-portal\\hrm_userprofile\\outstation_allowance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD6FC2F0-A1F9-416B-A7E8-BA9A8BA935BD}|HRM_UserProfile\\HRM_UserProfile.csproj|solutionrelative:hrm_userprofile\\outstation_allowance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B29F22-B3E1-482C-8492-B8AE9ED25596}|SERVICE\\SERVICE.csproj|D:\\MY\\IWEB_GIT\\hr-portal\\service\\outstationallowanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B29F22-B3E1-482C-8492-B8AE9ED25596}|SERVICE\\SERVICE.csproj|solutionrelative:service\\outstationallowanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB08440-60FA-434A-B081-482F7640E50D}|DOMAIN\\DOMAIN.csproj|D:\\MY\\IWEB_GIT\\hr-portal\\domain\\outstationallowance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB08440-60FA-434A-B081-482F7640E50D}|DOMAIN\\DOMAIN.csproj|solutionrelative:domain\\outstationallowance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B051D6A-B958-4200-A3BA-22E9F4D64378}|DATA\\DATA.csproj|D:\\MY\\IWEB_GIT\\hr-portal\\data\\leaverequestentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B051D6A-B958-4200-A3BA-22E9F4D64378}|DATA\\DATA.csproj|solutionrelative:data\\leaverequestentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +58,105 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyDetailsEntry.cs",
+              "DocumentMoniker": "D:\\MY\\IWEB_GIT\\hr-portal\\DATA\\CompanyDetailsEntry.cs",
+              "RelativeDocumentMoniker": "DATA\\CompanyDetailsEntry.cs",
+              "ToolTip": "D:\\MY\\IWEB_GIT\\hr-portal\\DATA\\CompanyDetailsEntry.cs",
+              "RelativeToolTip": "DATA\\CompanyDetailsEntry.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T09:07:50.389Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "default.aspx.cs",
+              "DocumentMoniker": "D:\\MY\\IWEB_GIT\\hr-portal\\HRM_UserProfile\\default.aspx.cs",
+              "RelativeDocumentMoniker": "HRM_UserProfile\\default.aspx.cs",
+              "ToolTip": "D:\\MY\\IWEB_GIT\\hr-portal\\HRM_UserProfile\\default.aspx.cs",
+              "RelativeToolTip": "HRM_UserProfile\\default.aspx.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T07:51:40.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "outstation_allowance.aspx.cs",
+              "DocumentMoniker": "D:\\MY\\IWEB_GIT\\hr-portal\\HRM_UserProfile\\outstation_allowance.aspx.cs",
+              "RelativeDocumentMoniker": "HRM_UserProfile\\outstation_allowance.aspx.cs",
+              "ToolTip": "D:\\MY\\IWEB_GIT\\hr-portal\\HRM_UserProfile\\outstation_allowance.aspx.cs",
+              "RelativeToolTip": "HRM_UserProfile\\outstation_allowance.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:09:29.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "outstation_allowance.aspx",
+              "DocumentMoniker": "D:\\MY\\IWEB_GIT\\hr-portal\\HRM_UserProfile\\outstation_allowance.aspx",
+              "RelativeDocumentMoniker": "HRM_UserProfile\\outstation_allowance.aspx",
+              "ToolTip": "D:\\MY\\IWEB_GIT\\hr-portal\\HRM_UserProfile\\outstation_allowance.aspx",
+              "RelativeToolTip": "HRM_UserProfile\\outstation_allowance.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-11T17:09:15.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OutstationAllowanceService.cs",
+              "DocumentMoniker": "D:\\MY\\IWEB_GIT\\hr-portal\\SERVICE\\OutstationAllowanceService.cs",
+              "RelativeDocumentMoniker": "SERVICE\\OutstationAllowanceService.cs",
+              "ToolTip": "D:\\MY\\IWEB_GIT\\hr-portal\\SERVICE\\OutstationAllowanceService.cs",
+              "RelativeToolTip": "SERVICE\\OutstationAllowanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:08:49.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutstationAllowanceEntry.cs",
+              "DocumentMoniker": "D:\\MY\\IWEB_GIT\\hr-portal\\DATA\\OutstationAllowanceEntry.cs",
+              "RelativeDocumentMoniker": "DATA\\OutstationAllowanceEntry.cs",
+              "ToolTip": "D:\\MY\\IWEB_GIT\\hr-portal\\DATA\\OutstationAllowanceEntry.cs",
+              "RelativeToolTip": "DATA\\OutstationAllowanceEntry.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:08:35.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OutstationAllowance.cs",
+              "DocumentMoniker": "D:\\MY\\IWEB_GIT\\hr-portal\\DOMAIN\\OutstationAllowance.cs",
+              "RelativeDocumentMoniker": "DOMAIN\\OutstationAllowance.cs",
+              "ToolTip": "D:\\MY\\IWEB_GIT\\hr-portal\\DOMAIN\\OutstationAllowance.cs",
+              "RelativeToolTip": "DOMAIN\\OutstationAllowance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:08:19.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "web.config",
               "DocumentMoniker": "D:\\MY\\IWEB_GIT\\hr-portal\\HRM_UserProfile\\web.config",
               "RelativeDocumentMoniker": "HRM_UserProfile\\web.config",
               "ToolTip": "D:\\MY\\IWEB_GIT\\hr-portal\\HRM_UserProfile\\web.config",
               "RelativeToolTip": "HRM_UserProfile\\web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2026-02-11T16:47:14.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "LeaveRequestEntry.cs",
               "DocumentMoniker": "D:\\MY\\IWEB_GIT\\hr-portal\\DATA\\LeaveRequestEntry.cs",
               "RelativeDocumentMoniker": "DATA\\LeaveRequestEntry.cs",
@@ -51,8 +164,7 @@
               "RelativeToolTip": "DATA\\LeaveRequestEntry.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T16:46:41.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T16:46:41.724Z"
             }
           ]
         }
